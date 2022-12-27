@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.clock {
+    font-size: 72px;
+    font-weight: bold;
+    color: #fff;
+}
+
+i {
+    color: rgb(87, 87, 87);
+    margin: 20px;
+}
